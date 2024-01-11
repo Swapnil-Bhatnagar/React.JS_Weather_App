@@ -1,16 +1,2 @@
-<p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
-
-<p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
-
-## Setup
-
-```
-npm i && npm start
-```
+# React.JS_Weather_App
+Discover weather effortlessly with this React.js app! ☀️ Real-time updates from reliable sources. 🌎 Personalized forecasts based on location. 🎨 User-friendly interface on any device. ⚙️ Powered by React for a seamless experience. 🌐 Utilizes weather APIs for up-to-date info.
